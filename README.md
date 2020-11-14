@@ -1,3 +1,3 @@
-# anomaly-detection
+# DPPAD
 
 The matlab code will be available on the acceptance of the manuscript.
